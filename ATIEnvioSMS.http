@@ -1,0 +1,6 @@
+@ATIEnvioSMS_HostAddress = http://localhost:5186
+
+GET {{ATIEnvioSMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
